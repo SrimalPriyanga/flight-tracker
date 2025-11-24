@@ -1,4 +1,4 @@
-'use server';
+
 
 import { MOCK_FLIGHTS, Flight } from '@/lib/mockData';
 
